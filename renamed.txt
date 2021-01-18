@@ -1,0 +1,4 @@
+I'm going to add, commit and push this change to the remote repository
+to prove if I have learned everything in the last lecture correctly.
+Used gitbash and notepad++
+Pressing Alt+F4 to close.
