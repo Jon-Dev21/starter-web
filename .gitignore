@@ -2,3 +2,4 @@
 dontWannaTrack.txt
 *.log
 log/
+*.orig
