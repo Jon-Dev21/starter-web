@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Connor jconnor85@git.training @ jconnor85
 
 # THANKS
 
