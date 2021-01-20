@@ -10,7 +10,11 @@ and various commands using a web project.
 
 ## Purpose
 
+Purpose of this project is to learn
+
 ## Deployment
+
+Deployment info goes here
 
 ## How To Contribute
 
