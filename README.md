@@ -18,3 +18,6 @@ Deployment info goes here
 
 ## How To Contribute
 
+##Copyright
+
+2014 Git.training.
